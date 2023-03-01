@@ -4,8 +4,7 @@ Codigo feito com o objetivo de ampliar os conhecimentos em Javascript. Trata-se 
 
 Link do projeto. [clique aqui](https://battle-between-x-and-o.netlify.app/)
 
-![jogoDaVelhaMenor](https://i.im.ge/2023/02/28/7DHTGa.jogoDaVelhaMenor.jpg)
-
+![jogoDaVelhaMenor](https://i.im.ge/2023/03/01/7LItMz.jogoDaVelhaMenor.th.jpg)
 ---
 ## Sobre o projeto
 
